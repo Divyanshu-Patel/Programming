@@ -15,6 +15,7 @@ cout << "Enter a number: ";
 cin >> number;
 }
 
+//ez
 cout << " The sum is " << sum << endl;
 
 return 0;
