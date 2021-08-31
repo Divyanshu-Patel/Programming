@@ -6,6 +6,8 @@ int main(){
     int sum = 0;
     cin>>a>>b>>x>>y;
 
+    //Basic ez
+
     sum = (a*x) + (b*y);
 
     cout << sum << endl;
