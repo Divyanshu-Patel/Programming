@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
     int n, k;
+    //important
     bool m=0;
     cin>>n>>k;
 
