@@ -14,6 +14,7 @@ int main(){
             cin>>arr[i];
         }
 
+        //Important
         int count = 1;
         int max = arr[0];
 
