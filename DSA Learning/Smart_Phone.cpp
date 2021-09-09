@@ -16,6 +16,7 @@ int main(){
     //    cout<<arr[i]<<endl;
     //}
 
+    //Code
     long long max = 0;
     for(int i = 0; i < n; i++){
         t=(arr[i]*(n-i));
