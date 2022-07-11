@@ -9,7 +9,7 @@ public:
             fact = fact*i;
             num.push_back(i);
         }
-        
+        //adding last element
         num.push_back(n);
         string ans="";
         k=k-1;
