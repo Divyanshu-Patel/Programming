@@ -34,9 +34,9 @@ void code(){
 
 int main(){ 
     
-    long long t;
-    cin>>t;
-    while(t--)
+    long long tits;
+    cin>>tits;
+    while(tits--)
         {
         code();
     }  
